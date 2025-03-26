@@ -1,4 +1,4 @@
-This is my repo for my coding interview.
+This is my repo for my coding interview preparation.
 
 Through this repro I'm practicing coding interview problems
 
